@@ -58,3 +58,9 @@ body{
 #Photo3{
   height: 20vh;
 }
+
+#ProjectHeader{
+  font-size: 50px;
+  position: 50%;
+  
+}
